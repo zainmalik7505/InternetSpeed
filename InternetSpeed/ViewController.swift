@@ -121,7 +121,7 @@ extension ViewController: InternetSpeedTestDelegate {
     func internetTestFinish(result: SpeedTestResult) {
         DispatchQueue.main.async {
             UIView.animate(withDuration: 0.5) {
-                self.progressBarView.value = 100
+                self.progressBarView.value = result.downloadSpeed.mbps
             }
             self.lblDownloadSpeed.text = "\(result.downloadSpeed.mbps) Mbps"
             self.lblLatency.text = "\(result.latencyInMs) ms"
