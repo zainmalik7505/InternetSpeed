@@ -13,6 +13,8 @@
 		A51438232D4A3B3F007E21EE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A51438212D4A3B3F007E21EE /* Main.storyboard */; };
 		A51438252D4A3B42007E21EE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A51438242D4A3B42007E21EE /* Assets.xcassets */; };
 		A51438282D4A3B42007E21EE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A51438262D4A3B42007E21EE /* LaunchScreen.storyboard */; };
+		A5D4A6962D4A59F4003A8CCF /* AppSS.png in Resources */ = {isa = PBXBuildFile; fileRef = A5D4A6952D4A59F3003A8CCF /* AppSS.png */; };
+		A5D4A6982D4A59FA003A8CCF /* WebSS.png in Resources */ = {isa = PBXBuildFile; fileRef = A5D4A6972D4A59F9003A8CCF /* WebSS.png */; };
 		DA6FBB2D2ACC9836EAA98428 /* Pods_InternetSpeed.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 751C3659970E8A3DC0FF4F01 /* Pods_InternetSpeed.framework */; };
 /* End PBXBuildFile section */
 
@@ -28,6 +30,8 @@
 		A51438242D4A3B42007E21EE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A51438272D4A3B42007E21EE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A51438292D4A3B42007E21EE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A5D4A6952D4A59F3003A8CCF /* AppSS.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AppSS.png; sourceTree = "<group>"; };
+		A5D4A6972D4A59F9003A8CCF /* WebSS.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = WebSS.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +66,7 @@
 		A514380F2D4A3B3F007E21EE = {
 			isa = PBXGroup;
 			children = (
+				A5D4A6942D4A59D0003A8CCF /* AppImages */,
 				A514381A2D4A3B3F007E21EE /* InternetSpeed */,
 				A51438192D4A3B3F007E21EE /* Products */,
 				9C96BA48326667AE3CCAF53D /* Pods */,
@@ -89,6 +94,15 @@
 				A51438292D4A3B42007E21EE /* Info.plist */,
 			);
 			path = InternetSpeed;
+			sourceTree = "<group>";
+		};
+		A5D4A6942D4A59D0003A8CCF /* AppImages */ = {
+			isa = PBXGroup;
+			children = (
+				A5D4A6952D4A59F3003A8CCF /* AppSS.png */,
+				A5D4A6972D4A59F9003A8CCF /* WebSS.png */,
+			);
+			path = AppImages;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -152,6 +166,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				A51438282D4A3B42007E21EE /* LaunchScreen.storyboard in Resources */,
+				A5D4A6982D4A59FA003A8CCF /* WebSS.png in Resources */,
+				A5D4A6962D4A59F4003A8CCF /* AppSS.png in Resources */,
 				A51438252D4A3B42007E21EE /* Assets.xcassets in Resources */,
 				A51438232D4A3B3F007E21EE /* Main.storyboard in Resources */,
 			);
