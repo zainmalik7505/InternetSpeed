@@ -1,0 +1,8 @@
+${PODS_ROOT}/Target Support Files/Pods-InternetSpeed/Pods-InternetSpeed-frameworks.sh
+${BUILT_PRODUCTS_DIR}/MBCircularProgressBar/MBCircularProgressBar.framework
+${BUILT_PRODUCTS_DIR}/MTCircularSlider/MTCircularSlider.framework
+${PODS_XCFRAMEWORKS_BUILD_DIR}/SpeedcheckerSDK/DataCompression.framework/DataCompression
+${PODS_XCFRAMEWORKS_BUILD_DIR}/SpeedcheckerSDK/Socket.framework/Socket
+${PODS_XCFRAMEWORKS_BUILD_DIR}/SpeedcheckerSDK/SpeedcheckerReportSDK.framework/SpeedcheckerReportSDK
+${PODS_XCFRAMEWORKS_BUILD_DIR}/SpeedcheckerSDK/SpeedcheckerSDK.framework/SpeedcheckerSDK
+${PODS_XCFRAMEWORKS_BUILD_DIR}/SpeedcheckerSDK/XMLParsing.framework/XMLParsing

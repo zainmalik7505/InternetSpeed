@@ -1,0 +1,24 @@
+PODS:
+  - MBCircularProgressBar (0.3.5)
+  - MTCircularSlider (1.2.1)
+  - SpeedcheckerSDK (2.0.5)
+
+DEPENDENCIES:
+  - MBCircularProgressBar
+  - MTCircularSlider
+  - SpeedcheckerSDK
+
+SPEC REPOS:
+  trunk:
+    - MBCircularProgressBar
+    - MTCircularSlider
+    - SpeedcheckerSDK
+
+SPEC CHECKSUMS:
+  MBCircularProgressBar: 0b795b722a5eb5b0923822f90474e2576a1a7855
+  MTCircularSlider: 58e0add0a6e48612cd46bed5911af1f528b26f28
+  SpeedcheckerSDK: f9ca0f6eeed8de27dae104fba4b20022880c85be
+
+PODFILE CHECKSUM: f5de9b97cf9afd1fbfa8a817e0edde241467eded
+
+COCOAPODS: 1.15.2
