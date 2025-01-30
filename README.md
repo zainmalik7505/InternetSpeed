@@ -20,5 +20,5 @@
 1. **speedCheckerSDK**
     https://github.com/speedchecker/speedchecker-sdk-ios?tab=readme-ov-file#cocoapods
 
-2. **speedCheckerSDK**
+2. **MBCircularProgressBar**
    https://github.com/MatiBot/MBCircularProgressBar
