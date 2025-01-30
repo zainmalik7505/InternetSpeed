@@ -12,7 +12,7 @@
 
 <h2 align="center">SpeedChecker is offering different types of licences</h2>
   <img src="https://github.com/zainmalik7505/InternetSpeed/blob/77c276e7f0bf4308aa1b469bb24be9ab7d63792c/AppImages/Screenshot%202025-01-29%20at%2012.34.30%20PM.png" 
-       alt="InternetSpeed App Demo" width="30%" />
+       alt="InternetSpeed App Demo" width="70%" />
 
 
 <h2 align="center">Packages used in this Project</h2>
